@@ -1,0 +1,11 @@
+{
+  "name": "test-public-secured",
+  "version": "1.0.0",
+  "description": "Test fixture for Rippling Data Bridge connector recordings",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "axios": "0.21.0",
+    "minimist": "1.2.5"
+  }
+}
